@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/css?family=Homenaje);
+
+
+body {
+	font-family: 'Homenaje';
+	font-size: 16px;
+    background: #e4e4ef;
+    color:black;
+
+}
+
+div {
+	
+    display: block;
+    
+}
+
+div.ranka {
+	
+	color:red;
+	background: #320652;
+	font-size: 20px ;
+	
+}
+
+div.rankasplit {
+	
+	color:red;
+	background: #320652;
+	font-size: 20px ;
+	
+}
+
+div.dealer {
+	
+	color:white;
+	background: #542E6B;
+	font-size: 20px ;
+
+}
+
+div.state {
+	color:white;
+	background: #320652;
+	font-size: 20px ;
+	
+}
+
+div.statesplit {
+	color:white;
+	background: #320652;
+	font-size: 20px ;
+	
+}
+
+div.coinsBet {
+	color:white;
+	font-size: 20px ;
+	background: #320652;
+}
+div.coinsBetsplit {
+	color:white;
+	font-size: 20px ;
+	background: #320652;
+}
+div.coinsHave {
+	color:white;
+	font-size: 20px ;
+	background: #542E6B;
+}
+
+#dealerI {
+  display: inline-block;
+  position: relative;
+  
+  float: left;
+}
+  
+#cardfield {
+  background: #542E6B;
+  color: white;
+  
+} 
+  
+
+#playerI {
+  
+  display: inline-block;
+  position: relative;
+ 
+  
+}
+
+#splitI {
+  
+  display: inline-block;
+  position: relative;
+  
+  
+}
+
+#cardfieldsplit {
+  background: #320652;
+  color: white;
+  
+} 
+
+#buttonbackground {
+ background: #320652;
+}
+
